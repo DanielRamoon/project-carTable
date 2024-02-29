@@ -1,5 +1,5 @@
 import React from "react";
-import CarTable from "../page/index";
+import CarTable from "../components/CarTable/CarTable";
 import "tailwindcss/tailwind.css";
 
 const Home: React.FC = () => {
