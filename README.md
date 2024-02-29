@@ -13,6 +13,24 @@ pnpm dev
 # or
 bun dev
 ```
+Tabela de Carros
+A tabela de carros é uma parte essencial da nossa aplicação, fornecendo uma visão geral dos diferentes carros disponíveis, suas informações e ações que podem ser realizadas.
+
+Conteúdo da Tabela
+Imagem do Carro: Cada carro é representado por uma imagem que o identifica visualmente, ajudando os usuários a reconhecerem o modelo.
+
+Nome do Carro: O nome do carro é exibido para que os usuários possam identificar rapidamente qual modelo estão visualizando.
+
+Próxima Reserva: Esta coluna mostra a data da próxima reserva para cada carro. Isso permite que os usuários vejam quando um carro está programado para ser reservado novamente.
+
+Status: O status de cada carro indica se ele está disponível para reserva ou se já está reservado. Os status disponíveis incluem "Disponível" e "Reservado".
+
+Avaliação: Os usuários podem avaliar os carros atribuindo uma classificação de 1 a 5 estrelas. Isso fornece feedback sobre a qualidade e satisfação geral com cada carro.
+
+Ações: As ações disponíveis para cada carro incluem opções para editar o status e editar informações detalhadas sobre o carro.
+
+
+
 
 Dependências
 
